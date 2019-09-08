@@ -1,5 +1,7 @@
 # Yandex.Checkout API Go Client Library
 
+https://vk.com/music/album/282414735_76079804
+
 [Russian](https://github.com/yandex-money/yandex-checkout-sdk-python/blob/master/README.ru.md) | English
 
 This product is used for managing payments under [The Yandex.Checkout API](https://kassa.yandex.ru/docs/checkout-api/)
