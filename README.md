@@ -9,17 +9,11 @@ For usage by those who implemented Yandex.Checkout using the API method.
 * Go 1.x
 
 ## Installation
-### Using `go get`
-
-* In the console, run the following command:
 ```bash
 go get github.com/impnumb/yandex-checkout-sdk-go
 ```
 
 ## Update
-### Using `go get`
-
-* In the console, run the following command:
 ```bash
 go get -u github.com/impnumb/yandex-checkout-sdk-go
 ```
