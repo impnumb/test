@@ -17,3 +17,16 @@ go get github.com/impnumb/yandex-checkout-sdk-go
 ```bash
 go get -u github.com/impnumb/yandex-checkout-sdk-go
 ```
+
+## Start using
+```go
+package main
+
+import "github.com/impnumb/yandex-checkout-sdk-go/yacheckout"
+
+func main(){
+  checkout := &yacheckout.Checkout{
+    ShopID
+  }
+}
+```
